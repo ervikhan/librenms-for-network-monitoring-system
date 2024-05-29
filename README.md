@@ -1,4 +1,4 @@
-<h2> **Setup Librenms for Network Monitoring System** </h2>
+<h2> Setup Librenms for Network Monitoring System </h2>
 - ***BASE ON ubuntu 22.04***
 - ***WEB SERVER nginx***
 
