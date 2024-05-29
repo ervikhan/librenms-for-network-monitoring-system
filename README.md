@@ -1,7 +1,7 @@
 - ***BASE ON ubuntu 22.04***
 - ***WEB SERVER nginx***
-- **Setup Pertama**
 
+- **First Setup**
     - Install needed packages
         
         ```bash
