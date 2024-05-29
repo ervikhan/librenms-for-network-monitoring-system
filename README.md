@@ -1,7 +1,5 @@
-***BASE ON ubuntu 22.04***
-***WEB SERVER nginx***
-***DB server MariaDB***
-
+- ***BASE ON ubuntu 22.04***
+- ***WEB SERVER nginx***
 - **Setup Pertama**
 
     - Install needed packages
